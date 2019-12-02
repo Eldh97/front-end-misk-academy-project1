@@ -262,7 +262,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 49em) {
+@media only screen and (max-width: 66em) {
   .header {
     height: 70vh;
   }
@@ -316,7 +316,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 20em) {
+@media only screen and (max-width: 34em) {
   .works-list {
     flex-direction: column;
     padding: 2rem;
