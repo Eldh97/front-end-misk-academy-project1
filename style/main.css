@@ -243,7 +243,7 @@ body {
 
 @media only screen and (max-width: 74em) {
   .header {
-    min-height: 40vh;
+    min-height: 60vh;
     padding: 4rem 0;
   }
 
@@ -263,7 +263,7 @@ body {
 
 @media only screen and (max-width: 49em) {
   .header {
-    height: 50vh;
+    height: 70vh;
   }
 
   .profile {
