@@ -263,7 +263,7 @@ body {
 
 @media only screen and (max-width: 49em) {
   .header {
-    height: 70vh;
+    height: 50vh;
   }
 
   .profile {
